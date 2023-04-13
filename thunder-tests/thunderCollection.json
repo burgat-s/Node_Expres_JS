@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "d479ad5e-0658-4db8-9775-c6680d4d3292",
+    "colName": "NodeOne",
+    "created": "2023-03-12T22:31:11.526Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "fed4fdaa-d853-47f6-91fd-488210b1b507",
+        "name": "Products",
+        "containerId": "",
+        "created": "2023-03-12T22:31:11.532Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "5f81322e-432b-4af8-a5e9-f19c9b55d750",
+        "name": "Users",
+        "containerId": "",
+        "created": "2023-03-12T23:02:34.713Z",
+        "sortNum": 20000
+      }
+    ]
+  }
+]
